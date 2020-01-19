@@ -1,2 +1,3 @@
 set HOME=%~dsp0home/portable
-start %~dsp0usr/bin/mintty /bin/bash -l
+set "MSYSTEM=MINGW64"
+start %~dsp0usr/bin/mintty /bin/sh -l
