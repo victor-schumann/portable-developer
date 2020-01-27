@@ -29,11 +29,11 @@ The last step is loading bash and telling it to use a custom `HOME` directory.
 
 1. Create a new directory called `home\portable\` in the folder that you extracted PortableGit to. eg. `c:\PortableGit\home\portable`
 
-2. Next, create a `.bat` in the main `PortableGit` folder to launch bash to use your `HOME` directory.
+2. Next, create a `.bat` in the main `PortableGit` folder to launch bash to use our custom `HOME` directory.
 
 In the following code block, we'll be using [Mintty](https://mintty.github.io/) as our terminal to launch bash since it comes with PortableGit.
 
-The most important part in the `.bat` file is setting our HOME environment variable to use our custom `home` directory.
+The most important part in the `.bat` file is setting our HOME environment variable to use our custom `HOME` directory.
 
 Copy the accompanying `mintty.bat` file to `c:\PortableGit\mintty.bat`.
 
