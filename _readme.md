@@ -33,9 +33,9 @@ The last step is loading bash and telling it to use a custom `HOME` directory.
 
 In the following code block, we'll be using [Mintty](https://mintty.github.io/) as our terminal to launch bash since it comes with PortableGit.
 
-View the accompanying `mintty.bat` file.
-
 The most important part in the `.bat` file is setting our HOME environment variable to use our custom `home` directory.
+
+Copy the accompanying `mintty.bat` file to `c:\PortableGit\mintty.bat`.
 
 3. Launch Mintty by double-clicking on `mintty.bat`.
 
