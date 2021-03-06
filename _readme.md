@@ -15,7 +15,7 @@ You'll want the latest 7z file prefixed with `PortableGit` in the file name.
 
 Extract the 7z file to a directory of your choosing.  For this article, I'll be using `c:\PortableGit\` as a reference point.
 
-#### (2) Ensure PortableGit uses our custom .bashrc
+#### (2) Ensure PortableGit uses the .bashrc file
 
 `.bashrc` is an important configuration file used by bash to load various custom commands.  Since we are using PortableGit, we need to let it know where to find `.bashrc`.
 
