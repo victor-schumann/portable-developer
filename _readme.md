@@ -21,7 +21,7 @@ Extract the 7z file to a directory of your choosing.  For this article, I'll be 
 
 To do this, add the accompanying `portable.sh` file to the `c:\PortableGit\etc\profile.d\` directory.
 
-This tells PortableGit to load our `.bashrc` file.
+This tells PortableGit to load our `.bashrc` file. If you don't have an existing `.bashrc` file, just create an empty one.
 
 #### (3) Setting up your bash environment to use a custom HOME directory
 
