@@ -1,3 +1,7 @@
+Author #2's Note
+========
+This is the original file from r-a-y. I inspired myself on his tutorial to build this repo. Hope my changes are useful to you and to the community!
+
 Prologue
 ========
 
