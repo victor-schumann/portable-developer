@@ -1,5 +1,5 @@
 # Introduction
-This guide was adapted from [r-a-y's](https://gist.github.com/r-a-y/da6c3b1b99aafcb3e97e311280aa9434) original guide, currently available on GitHub.
+This guide was adapted from [r-a-y's](https://gist.github.com/r-a-y/da6c3b1b99aafcb3e97e311280aa9434) original guide, currently available on GitHub (see `_readme.md`).
 
 I originally posted on reddit asking for suggestions on how to code on my work-environment computers, and the kind folks suggested me to use notepad (no joke). Since I don't have admin privileges on those machines, I started using portable apps until I found out about Portable Git.
 
