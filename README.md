@@ -1,5 +1,5 @@
 # Portable Dev
-A small compilation of tools for a developer to work from any windows machine. I'm still learning how to program, so it's neat to code when I'm bored while at my 9 to 5 job. Since it was a bit harder than I thought to set this up on my own, I decided to share this to more people like me.
+A small compilation of tools for a developer to work from any windows machine. I'm still learning how to program, so it's neat to code while at my 9 to 5 job. Since it was a bit harder than I thought to set this up on my own, I decided to share this to more people like me.
 
 ## Portable Git Guide
 The [`portable-git-guide.md`](https://github.com/victor-schumann/portable-developer/blob/master/portable-git-guide.md) file is a step-by-step process on how to install the Portable Git for Windows tool pack on a USB stick. It gets you the following tools:
