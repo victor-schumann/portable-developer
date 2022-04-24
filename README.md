@@ -20,9 +20,15 @@ Feel free to check the following links for more useful stuff:
 - A very Cool Windows text editor -> [RJTextEd](https://rj-texted.se/);
 - Visit my blog! -> [VictorSchumann.com](http://www.victorschumann.com).
 
+
 # Contact & Info
+<h1 align="center">Hello, World 👋 <br> I'm Victor Schumann</h1>
+<h3 align="center">A passionate developer & student from Brazil</h3><br>
 <p align="center">
-  <A HREF='https://linkedin.com/in/victor-schumann' target='_blank'><img height='36' style='border:0px;height:26px;' src='https://img.shields.io/badge/Hire%20me-LINKEDIN.COM-blue' border='0' alt='Hire me on Linkedin'/></a>&nbsp;&nbsp;&nbsp;
-  <A HREF='https://linkedin.com/in/victor-schumann' target='_blank'><img height='36' style='border:0px;height:26px;' src='https://img.shields.io/badge/Follow%20me%20-WORDPRESS.ORG-black' border='0' alt='Blogging on VictorSchumann.com'/></a>&nbsp;&nbsp;&nbsp;
-  <A HREF='https://ko-fi.com/victorschumann' target='_blank'><img height='36' style='border:0px;height:26px;' src='https://img.shields.io/badge/Buy%20me%20a%20%E2%98%95%EF%B8%8F%20-KO--FI.COM-ff69b4' border='0' alt='Hire me on Linkedin'/></a>
- </p>
+<a href="https://twitter.com/schumann_victor" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="schumann_victor" height="30" width="auto" hspace="25"/></a>
+<a href="https://linkedin.com/in/victor-schumann" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="victor-schumann" height="30" width="auto"/></a>
+</p>
+  
+
+<p align="center"><a href="https://ko-fi.com/victor-schumann"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="auto" width="160" alt="victor-schumann" /></a></p>
+
